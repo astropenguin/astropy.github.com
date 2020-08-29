@@ -1,5 +1,23 @@
 {
     "packages": [
+        {
+            "name": "azely",
+            "maintainer": "Akio Taniguchi <taniguchi@a.phys.nagoya-u.ac.jp>",
+            "stable": true,
+            "home_url": "https://astropenguin.github.io/azely/",
+            "repo_url": "https://github.com/astropenguin/azely",
+            "pypi_name": "azely",
+            "description": "Computation and plotting of azimuth and elevation for astronomical objects",
+            "review": {
+                "functionality": "To be filled out by the reviewer",
+                "ecointegration": "To be filled out by the reviewer",
+                "documentation": "To be filled out by the reviewer",
+                "testing": "To be filled out by the reviewer",
+                "devstatus": "To be filled out by the reviewer",
+                "python3": "To be filled out by the reviewer",
+                "last-updated": "To be filled out by the reviewer"
+            }
+        },
          {
           "name": "statmorph",
           "maintainer": "Vicente Rodriguez-Gomez <vicente.rodgom@gmail.com>",
